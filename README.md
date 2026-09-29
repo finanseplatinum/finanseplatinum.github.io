@@ -23,22 +23,9 @@ We publish hours, offerings and contact paths clearly so customers know what to 
 
 ---
 
-## Our promise
+## What drives us
 
-At Finanseplatinum, great pharmacy shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
-
-- Transparent menus and service lists
-- Staff who explain options without pressure
-- Quality that holds up visit after visit
-- Follow-through when something needs fixing
-
----
-
-## The long view
-
-Become the pharmacy benchmark in Chicago — known for craft, accessibility, and a brand identity that feels unmistakably Finanseplatinum.
-
----
+Finanseplatinum is a pharmacy built around real neighbors in Chicago. We'd rather do fewer things well than overwhelm you with noise.
 
 # Our Services
 
@@ -75,6 +62,35 @@ Become the pharmacy benchmark in Chicago — known for craft, accessibility, and
 
 ---
 
+
+# Featured Categories
+
+| Category | Description |
+|----------|-------------|
+| **New Arrivals** | Latest additions to our pharmacy catalog |
+| **Best Sellers** | Customer favorites and most-requested options |
+| **Signature Experience** | Our most requested package |
+| **Pharmacy Essentials** | Core offering for everyday guests |
+| **Essentials** | Everyday foundations of the brand |
+| **Premium** | Elevated selections for special occasions |
+| **Support** | Guidance, sizing help and aftercare |
+| **Visit / Book** | Hours, appointments and walk-in options |
+
+
+---
+
+- Curated offerings over endless catalogs
+- Human replies instead of auto-responses
+- Seasonal updates that actually change
+- A front door that's easy to find
+
+---
+
+## Looking ahead
+
+Expand what Finanseplatinum does best while keeping the same welcome — evolving with healthcare trends without losing our local voice.
+
+---
 
 # Customer Support
 
